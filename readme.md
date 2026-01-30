@@ -5,3 +5,5 @@
 - If examples
 - While examples
 - For examples 
+
+### Session 7 deals with strings 
